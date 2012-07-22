@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: evelopment
+  database: development
   pool: 5
   username: Domas
   password:
